@@ -1,5 +1,7 @@
 # ELFEN - Efficient Linguistic Feature Extraction for Natural Language Datasets
 
+[![Runs on Jupyter4NFDI](https://github.com/apawlik/elfen/actions/workflows/jupyter4nfdi_ready_check.yml/badge.svg)](https://github.com/apawlik/elfen/actions/workflows/jupyter4nfdi_ready_check.yml)
+
 This Python package provides efficient linguistic feature extraction for text datasets (i.e. datasets with N text instances, in a tabular structure). 
 
 For a full overview of the features available, check the [overview table](features.md), for further details and tutorials check the
